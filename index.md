@@ -23,6 +23,8 @@ Hogwarts Rejects
 
 **Bold** and _Italic_ and `Code` text
 
+`system.out.println("Hello");`
+
 [Link](url) and ![Image](src)
 ```
 
