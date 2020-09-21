@@ -18,7 +18,7 @@ Hogwarts Rejects
 - Bulleted
 - List
 
-1. Numbered
+1. So much magic
 2. List
 
 .
